@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> ../components/Map\":{\"id\":\"app/page.tsx -> ../components/Map\",\"files\":[]}}"
